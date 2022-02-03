@@ -18,8 +18,8 @@
     "lootbeams.mixin.json"
   ],
   "depends": {
-    "fabricloader": "*",
+    "fabricloader": ">=0.12.10",
     "fabric": "*",
-    "minecraft": ">=1.16"
+    "minecraft": ">=1.18"
   }
 }
